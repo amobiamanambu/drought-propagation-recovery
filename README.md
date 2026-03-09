@@ -4,7 +4,7 @@
 
 **Authors:** Amobichukwu C. Amanambu et al.
 
-**Journal:** *Nature Communications* (under review)
+**Journal:** ** (under review)
 
 ## Overview
 
