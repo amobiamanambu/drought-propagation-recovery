@@ -91,4 +91,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 If you use this code or data, please cite:
 
-> Amanambu, A.C. et al. Hydrological Drought Propagation is Memory-driven but Recovery is Event-driven. *Nature Communications* (under review).
+> Amanambu, A.C. and Obarein, A.C. Hydrological Drought Propagation is Memory-driven but Recovery is Event-driven. ** (under review).
