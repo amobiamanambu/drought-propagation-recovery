@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)
 
-**Authors:** Amobichukwu C. Amanambu et al.
+**Authors:** Amobichukwu C. Amanambu & Omon A. Obarein.
 
 **Journal:** ** (under review)
 
